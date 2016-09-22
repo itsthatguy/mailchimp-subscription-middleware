@@ -1,6 +1,6 @@
 {
   "name": "mailchimp-subscription-middleware",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Middleware to enable server-side mailchimp subscription requests",
   "main": "index.js",
   "keywords": [
