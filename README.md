@@ -1,16 +1,15 @@
 # MailChimp Subscription Middleware
 
 ## Assumptions
-You have a mailchimp account
-You've created a list
-You have an API Key
-You know what a computer is
+* You have a mailchimp account
+* You've created a list
+* You have an API Key
+* You know what a computer is
 
 ## Use it
-API key
+* API key
 http://kb.mailchimp.com/integrations/api-integrations/about-api-keys
-
-List ID http://kb.mailchimp.com/lists/managing-subscribers/find-your-list-id
+* List ID http://kb.mailchimp.com/lists/managing-subscribers/find-your-list-id
 **Do not** remove the `-<datacenter>` at the end of your API token
 
 ```javascript
