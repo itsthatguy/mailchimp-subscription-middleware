@@ -1,9 +1,14 @@
 {
   "name": "mailchimp-subscription-middleware",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Middleware to enable server-side mailchimp subscription requests",
   "main": "index.js",
-  "keywords": ["mailchimp", "middleware", "subscribe", "subscription"],
+  "keywords": [
+    "mailchimp",
+    "middleware",
+    "subscribe",
+    "subscription"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
