@@ -1,11 +1,16 @@
 {
   "name": "mailchimp-subscription-middleware",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "Middleware to enable server-side mailchimp subscription requests",
   "main": "index.js",
+  "keywords": ["mailchimp", "middleware", "subscribe", "subscription"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kevin Altman <kevin@itsthatguy.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsthatguy/mailchimp-subscription-middleware.git"
+  }
 }
